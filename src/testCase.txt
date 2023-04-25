@@ -1,7 +1,0 @@
-hey this is a test case
-
-i am going to attempt to commit and push this to
-
-github
-
-editor: i am going to fetch and pull
